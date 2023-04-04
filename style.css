@@ -230,7 +230,7 @@ footer {
         display: flex;
         justify-content: center;
         margin-top: 2.25rem;
-        gap: 11rem;
+        gap: 10.625rem;
     }
 
     .top-content {
@@ -302,6 +302,7 @@ footer {
 
     .testimonial {
         height: 14.625rem;
+        width: 21.875rem;
     }
 
     .second-testimonial {
@@ -314,5 +315,9 @@ footer {
 
     .testimonial-quote {
         padding-top: 1.75rem;
+    }
+
+    .testimonial-name-block {
+        padding-left: 1.5rem;
     }
 }
