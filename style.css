@@ -228,8 +228,9 @@ footer {
 
     .top-content-desktop {
         display: flex;
-        justify-content: space-between;
+        justify-content: center;
         margin-top: 2.25rem;
+        gap: 11rem;
     }
 
     .top-content {
@@ -296,6 +297,7 @@ footer {
     .testimonials {
         grid-template-columns: repeat(3, 21.875rem);
         gap: 1.875rem;
+        max-width: 1158px;
     }
 
     .testimonial {
