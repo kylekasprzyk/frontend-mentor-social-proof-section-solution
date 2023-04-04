@@ -29,7 +29,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ## Links
 
-- [Solution URL](#)
+- [Solution URL](https://www.frontendmentor.io/solutions/social-proof-section-solution-dH4NxKjcOb)
 - [Live Site URL](https://kylekasprzyk.github.io/frontend-mentor-social-proof-section-solution/)
 
 ## Built with
